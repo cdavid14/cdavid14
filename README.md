@@ -1,4 +1,12 @@
-### Hi there 👋
+### 😄 About Me
+
+* :rocket: Golang Developer (Beginner)
+* :office: Network Administrator (Employee on Telecab)
+* :office: Headend Manager (Also by Telecab haha)
+* :construction: ffmpeg enthusiast
+
+Please check my projects, give pull requests, please open a issue for questions, sometimes i forget to open my emails.
+
 
 <!--
 **cdavid14/cdavid14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
