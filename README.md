@@ -7,6 +7,7 @@
 
 Please check my projects, give pull requests, please open a issue for questions, sometimes i forget to open my emails.
 
+[![cdavid14's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdavid14)](https://github.com/cdavid14/github-readme-stats)
 
 <!--
 **cdavid14/cdavid14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
