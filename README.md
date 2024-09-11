@@ -1,8 +1,8 @@
 ### 😄 About Me
 
 * :rocket: Golang Developer (Beginner)
-* :office: Network Administrator (Employee on Telecab)
-* :office: Headend Manager (Also by Telecab haha)
+* :office: Python Mid Developer (TSMX - SGP)
+* :office: Network Administrator (EVTIC)
 * :construction: ffmpeg enthusiast
 
 Please check my projects, give pull requests, please open a issue for questions, sometimes i forget to open my emails.
