@@ -2,7 +2,8 @@
 
 * :rocket: Golang Developer (Beginner)
 * :office: Python Mid Developer (TSMX - SGP)
-* :office: Network Administrator (EVTIC)
+* :office: Senior Network Administrator (EVTIC)
+* :office: Senior OTT Integrator
 * :construction: ffmpeg enthusiast
 
 Please check my projects, give pull requests, please open a issue for questions, sometimes i forget to open my emails.
